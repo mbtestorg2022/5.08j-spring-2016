@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: " \tLecture 34: Reactive Oxygen Species 4 & Nucleotide Metabolism 1"
+title: '  Lecture 34: Reactive Oxygen Species 4 & Nucleotide Metabolism 1'
 uid: a3114713-1953-c8c4-f0c8-22f226c88422
 video_files:
   archive_url: https://archive.org/download/MIT5.08JS16/MIT5_08JS16_Lecture_34_300k.mp4
