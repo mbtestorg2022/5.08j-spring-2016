@@ -134,7 +134,7 @@ R2
 {{< tdopen >}}
 
 
-Pape, T., W. Wintermeyer, and M. Rodnina. “[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171457/pdf/003800.pdf)” _EMBO J_ 1999, 18, 3800-3807.
+Pape, T., W. Wintermeyer, and M. Rodnina. “[Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171457/pdf/003800.pdf)” _EMBO J_ 1999, 18, 3800-3807.
 
 [Recitation 2 Discussion Questions (PDF)]({{< baseurl >}}/resources/mit5_08js16r2_questions)
 
@@ -201,7 +201,7 @@ R3
 {{< tdopen >}}
 
 
-Pape, T., W. Wintermeyer, and M. Rodnina. “[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171457/pdf/003800.pdf)” _EMBO J_ 1999, 18, 3800-3807.
+Pape, T., W. Wintermeyer, and M. Rodnina. “[Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171457/pdf/003800.pdf)” _EMBO J_ 1999, 18, 3800-3807.
 
 [Recitation 3 Radioactive Experiments Handout (PDF)]({{< baseurl >}}/resources/mit5_08js16r3)
 
@@ -330,7 +330,7 @@ R5
 
 ### Optional Reading
 
-_"[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Thermo Scientific Crosslinking Technical Handbook. Easy molecular bonding crosslinking technology: Reactivity chemistries, applications and structure references (PDF)](https://www.thermofisher.com/content/dam/LifeTech/Images/integration/1602163_CrosslinkingHB_lores.pdf)_" Thermo Fisher Scientific Inc., 2012.
+_"[Thermo Scientific Crosslinking Technical Handbook. Easy molecular bonding crosslinking technology: Reactivity chemistries, applications and structure references (PDF)](https://www.thermofisher.com/content/dam/LifeTech/Images/integration/1602163_CrosslinkingHB_lores.pdf)_" Thermo Fisher Scientific Inc., 2012.
 
 Sinz, A. "[Chemical Cross-Linking and Mass Spectrometry to Map Three-Dimensional Protein Structures and Protein-Protein Interactions](https://pdfs.semanticscholar.org/35b0/a607eda9a0a23ee631faced825383222a68e.pdf)" _Mass Spectrometry Reviews_ 2006, 25, 663-682.
 
